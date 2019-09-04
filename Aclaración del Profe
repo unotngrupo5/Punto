@@ -1,0 +1,22 @@
+ProgramaObjeto po = Compilador.compilar("CNSOOF") --> Entre parentesis es el Programa Fuente
+
+Acepta 
+CF
+CNNSF
+
+Rechaza
+NNSF
+CNOF
+CNNJF
+
+
+po.ejecutar();
+Punto p = 
+
+if (pf.charAt(0) != 'C') || (pf.charAt(pf.length()-1)!= 'F')) return null;
+
+switch(pf.charAt(i))
+case 'N' : p.setY(p.getY()+1); break;
+case 'S' : p.setY(p.getY()-1); break;
+case 'E' : p.setY(p.getY()+1); break;
+case 'O' :
